@@ -5,3 +5,4 @@
 ||okwave.jp^
 ||softonic.jp^
 ||yahoo.co.jp^
+||yahoo.com^
