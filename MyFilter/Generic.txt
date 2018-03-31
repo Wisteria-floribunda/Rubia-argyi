@@ -1,0 +1,13 @@
+baby-metal.jpn.org##div.tag_5.box:has-text(BABYMETALの楽園)
+baby-metal.jpn.org##div.tag_5.box:has-text(私、BABYMETALの味方です。)
+touch.navitime.co.jp##div#app-invite-frame
+touch.navitime.co.jp##div#smartapp-invite-app-frame
+touch.navitime.co.jp##div.app-download-footer-frame
+touch.navitime.co.jp##section#important-news-frame
+touch.navitime.co.jp##section#main-campaign-frame
+touch.navitime.co.jp##section#recommend-menu-main-area
+touch.navitime.co.jp##section#recommend-menu-main-frame
+touch.navitime.co.jp##section#recommend-menu-tab-frame
+www.jreast.co.jp##aside#banner
+www.jreast.co.jp##div#slidebanner-ekinet
+www.jreast.co.jp##div.slider
