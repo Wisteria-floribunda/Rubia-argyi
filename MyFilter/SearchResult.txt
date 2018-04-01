@@ -1,5 +1,6 @@
 www.google.com,www.google.co.jp##div.g:has(h3.r > a[href*="allabout.co.jp"])
 www.google.com,www.google.co.jp##div.g:has(h3.r > a[href*="bmparadise.blog.jp"])
+www.google.com,www.google.co.jp##div.g:has(h3.r > a[href*="excite.co.jp"])
 www.google.com,www.google.co.jp##div.g:has(h3.r > a[href*="naver.jp"])
 www.google.com,www.google.co.jp##div.g:has(h3.r > a[href*="okwave.jp"])
 www.google.com,www.google.co.jp##div.g:has(h3.r > a[href*="goo.ne.jp"])
