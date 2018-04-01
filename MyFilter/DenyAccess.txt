@@ -1,5 +1,6 @@
 ||biglobe.ne.jp^
 ||bmparadise.blog.jp^
+||excite.co.jp^
 ||goo.ne.jp^
 ||naver.jp^
 ||okwave.jp^
