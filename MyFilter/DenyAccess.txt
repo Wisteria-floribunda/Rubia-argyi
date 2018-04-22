@@ -5,6 +5,7 @@
 ||mercari.com^
 ||naver.jp^
 ||okwave.jp^
+||pointi.jp^
 ||softonic.jp^
 ||yahoo.co.jp^
 ||yahoo.com^
