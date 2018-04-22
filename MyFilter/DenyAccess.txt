@@ -2,6 +2,7 @@
 ||bmparadise.blog.jp^
 ||excite.co.jp^
 ||goo.ne.jp^
+||mercari.com^
 ||naver.jp^
 ||okwave.jp^
 ||softonic.jp^
