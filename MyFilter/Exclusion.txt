@@ -1,3 +1,4 @@
 #@#.tw_icon
 @@||honto.jp/library/js/cmn/s_code.min.js$script,first-party
 @@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
+@@||apis.google.com/js/platform.js$script,domain=ja.duolingo.com
