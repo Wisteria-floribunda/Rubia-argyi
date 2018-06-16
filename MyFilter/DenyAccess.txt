@@ -7,6 +7,12 @@
 ||naver.jp^
 ||okwave.jp^
 ||pointi.jp^
+||research-panel.jp^
 ||softonic.jp^
+||sp.shinseibank.com^
+||tsite.jp/r/cpn/card/qa^
+||www.mansiontech.com^
+||www.tateru.co^
+||www.tenshi-kenko.com^
 ||yahoo.co.jp^
 ||yahoo.com^
