@@ -11,6 +11,7 @@
 ||softonic.jp^
 ||sp.shinseibank.com^
 ||tsite.jp/r/cpn/card/qa^
+||www.benesse.co.jp/zemi^
 ||www.mansiontech.com^
 ||www.tateru.co^
 ||www.tenshi-kenko.com^
