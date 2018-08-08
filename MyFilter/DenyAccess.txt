@@ -13,6 +13,7 @@
 ||tsite.jp/r/cpn/card/qa^
 ||www.benesse.co.jp/zemi^
 ||www.mansiontech.com^
+||www.shinseibank.com^
 ||www.tateru.co^
 ||www.tenshi-kenko.com^
 ||yahoo.co.jp^
