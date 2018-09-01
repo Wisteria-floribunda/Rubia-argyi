@@ -20,3 +20,4 @@
 ||yahoo.com^
 ||www.lionshop.jp^
 ||www.gala-navi.com^
+||www.saisoncard.co.jp^
