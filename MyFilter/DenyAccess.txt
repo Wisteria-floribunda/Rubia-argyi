@@ -19,3 +19,4 @@
 ||yahoo.co.jp^
 ||yahoo.com^
 ||www.lionshop.jp^
+||www.gala-navi.com^
