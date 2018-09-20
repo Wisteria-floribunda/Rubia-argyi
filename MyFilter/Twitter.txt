@@ -1,4 +1,3 @@
-
 !babymetalmatome.com##div.tw_format:has-text()
 !twitter.com##li[id^="stream-item-tweet-"]:has-text()
 babymetalmatome.com##div.tw_format:has-text(@4949_95)
@@ -369,3 +368,7 @@ twitter.com##li[id^="stream-item-tweet-"]:has-text(@yukorin_vo)
 twitter.com##li[id^="stream-item-tweet-"]:has-text(@yuyumetal2)
 twitter.com##li[id^="stream-item-tweet-"]:has-text(@zSyCUJ6tV1DpQC5)
 twitter.com##li[id^="stream-item-tweet-"]:has-text(@zenswebsphere)
+babymetalmatome.com##div.tw_format:has-text(@UVERworld_kj)
+twitter.com##li[id^="stream-item-tweet-"]:has-text(@UVERworld_kj)
+babymetalmatome.com##div.tw_format:has-text(@15_neko_15)
+twitter.com##li[id^="stream-item-tweet-"]:has-text(@15_neko_15)
