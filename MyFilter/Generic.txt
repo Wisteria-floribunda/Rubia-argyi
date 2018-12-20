@@ -1,5 +1,6 @@
 baby-metal.jpn.org##div.tag_5.box:has-text(BABYMETALの楽園)
 baby-metal.jpn.org##div.tag_5.box:has-text(私、BABYMETALの味方です。)
+route.ekitan.com##.ekimod.pr_areastop
 touch.navitime.co.jp##div#app-invite-frame
 touch.navitime.co.jp##div#smartapp-invite-app-frame
 touch.navitime.co.jp##div.app-download-footer-frame
