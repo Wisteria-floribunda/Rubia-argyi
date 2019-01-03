@@ -2,5 +2,6 @@
 @@||honto.jp/library/js/cmn/s_code.min.js$script,first-party
 @@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
+@@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
 @@||www.nttdocomo.co.jp/js/common/s_code.js$script,domain=www.nttdocomo.co.jp
 docs.google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
