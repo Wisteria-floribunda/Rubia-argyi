@@ -4,4 +4,4 @@
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
 @@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
 @@||www.nttdocomo.co.jp/js/common/s_code.js$script,domain=www.nttdocomo.co.jp
-docs.google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
+google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
