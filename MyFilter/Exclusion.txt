@@ -1,5 +1,6 @@
 #@#.tw_icon
 @@||honto.jp/library/js/cmn/s_code.min.js$script,first-party
+@@||image.pia.jp/common2//common/pc/share/js/*$script,first-party
 @@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
 @@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
