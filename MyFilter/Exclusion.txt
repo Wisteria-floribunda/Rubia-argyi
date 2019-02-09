@@ -3,6 +3,7 @@
 @@||image.pia.jp/common2//common/pc/share/js/*$script,first-party
 @@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
+@@||viewcard.okbiz.okwave.jp
 @@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
 @@||www.nttdocomo.co.jp/js/common/s_code.js$script,domain=www.nttdocomo.co.jp
 inoreader.com#@#.inno_dialog_modal
