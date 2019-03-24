@@ -9,3 +9,5 @@
 inoreader.com#@#.inno_dialog_modal
 inoreader.com#@#.inno_dialog_modal_overlay
 google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
+www.satofull.jp#@#[class^="ad_"]:not(html):not(body)
+www.satofull.jp#@#[class^="ad_"]:not(body)
