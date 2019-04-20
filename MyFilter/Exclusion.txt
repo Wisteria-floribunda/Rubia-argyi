@@ -10,6 +10,7 @@
 @@||viewcard.okbiz.okwave.jp
 @@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
 @@||www.nttdocomo.co.jp/js/common/s_code.js$script,domain=www.nttdocomo.co.jp
+ebay.com#@#.social
 google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
 inoreader.com#@#.inno_dialog_modal
 inoreader.com#@#.inno_dialog_modal_overlay
