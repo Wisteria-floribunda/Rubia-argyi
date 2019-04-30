@@ -1,20 +1,45 @@
-#@#.tw_icon
-@@||api.docodoco.jp/v5/docodoco$script,domain=www.jrtours.co.jp
+! Duolingo
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
-@@||honto.jp/library/js/cmn/s_code.min.js$script,first-party
-@@||image.pia.jp/common2//common/pc/share/js/*$script,first-party
-@@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
-@@||secure.okbiz.okwave.jp^$script,domain=secure.okbiz.okwave.jp
-@@||secure.okbiz.okwave.jp^$stylesheet,domain=secure.okbiz.okwave.jp
-@@||static.criteo.net/js/ld/ld.js$script,domain=www.jrtours.co.jp
-@@||viewcard.okbiz.okwave.jp
-@@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
-@@||sp.jal.co.jp/commonY15/js/cookieManager.js$script,domain=sp.jal.co.jp
-@@||www.jal.co.jp/commonY15/js/cookieManager.js$script,domain=www.jal.co.jp
-@@||www.nttdocomo.co.jp/js/common/s_code.js$script,domain=www.nttdocomo.co.jp
+
+! eBay
 ebay.com#@#.social
+
+! Google
 google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
+
+! honto
+@@||honto.jp/library/js/cmn/s_code.min.js$script,first-party
+
+! InoReader
 inoreader.com#@#.inno_dialog_modal
 inoreader.com#@#.inno_dialog_modal_overlay
+
+! JACCS
+@@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
+
+! JAL
+@@||sp.jal.co.jp/commonY15/js/cookieManager.js$script,domain=sp.jal.co.jp
+@@||www.jal.co.jp/commonY15/js/cookieManager.js$script,domain=www.jal.co.jp
+
+! JR東海ツアーズ
+@@||api.docodoco.jp/v5/docodoco$script,domain=www.jrtours.co.jp
+@@||static.criteo.net/js/ld/ld.js$script,domain=www.jrtours.co.jp
+
+! NTT DOCOMO
+@@||www.nttdocomo.co.jp/js/common/s_code.js$script,domain=www.nttdocomo.co.jp
+
+! OKWAVE
+@@||secure.okbiz.okwave.jp^$script,domain=secure.okbiz.okwave.jp
+@@||secure.okbiz.okwave.jp^$stylesheet,domain=secure.okbiz.okwave.jp
+@@||viewcard.okbiz.okwave.jp
+
+! Twitter
+#@#.tw_icon
+
+! さとふる
 www.satofull.jp#@#[class^="ad_"]:not(body)
 www.satofull.jp#@#[class^="ad_"]:not(html):not(body)
+
+! チケットぴあ
+@@||image.pia.jp/common2//common/pc/share/js/*$script,first-party
+@@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
