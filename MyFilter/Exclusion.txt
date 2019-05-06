@@ -36,6 +36,10 @@ inoreader.com#@#.inno_dialog_modal_overlay
 ! Twitter
 #@#.tw_icon
 
+! ValueCommerce
+@@||valuecommerce.com^
+@@||valuecommerce.ne.jp^
+
 ! さとふる
 www.satofull.jp#@#[class^="ad_"]:not(body)
 www.satofull.jp#@#[class^="ad_"]:not(html):not(body)
