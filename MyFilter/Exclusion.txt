@@ -35,6 +35,7 @@ inoreader.com#@#.inno_dialog_modal_overlay
 
 ! Twitter
 #@#.tw_icon
+twitter.com#@#div:not([class]):not([style]) div:has-text(プロモーション)
 
 ! ValueCommerce
 @@||valuecommerce.com^
