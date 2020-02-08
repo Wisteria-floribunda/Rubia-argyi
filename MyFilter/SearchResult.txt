@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: MyFilter - Search Result
+! Last updated: 2018.10.28
 !!www.google.com,www.google.co.jp##div.g:has(div.r > a[href*=""])
 !!www.google.com,www.google.co.jp##div[id=extrares] > div[id=botstuff] > div > div > div > div > div > div[class=srg] > div:has(div > a[href*=""])
 !!www.google.com,www.google.co.jp##div[id=ires] > div[id=rso] > div[class=srg] > div > div > div:has(div > a[href*=""])
