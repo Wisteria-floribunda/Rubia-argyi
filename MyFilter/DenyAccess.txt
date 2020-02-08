@@ -1,3 +1,6 @@
+[Adblock Plus 2.0]
+! Title: MyFilter - Deny Access
+! Last updated: 2019.07.01
 ||biglobe.ne.jp^
 ||bmparadise.blog.jp^
 ||ecnavi.jp^
