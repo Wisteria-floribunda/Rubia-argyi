@@ -1,3 +1,7 @@
+[Adblock Plus 2.0]
+! Title: MyFilter - Exclusion
+! Last updated: 2019.08.27
+
 ! Duolingo
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
 
@@ -13,6 +17,8 @@ google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
 ! InoReader
 inoreader.com#@#.inno_dialog_modal
 inoreader.com#@#.inno_dialog_modal_overlay
+inoreader.com#@#.inno_dialog_modal:not(#login_dialog_wrapper)
+inoreader.com#@#.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
 
 ! JACCS
 @@||www.jaccs.co.jp/asset/js/s_code.js$script,domain=www.jaccs.co.jp
