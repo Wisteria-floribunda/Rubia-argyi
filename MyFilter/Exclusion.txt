@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter - Exclusion
-! Last updated: 2019.08.27
+! Last updated: 2020.02.08
 
 ! Duolingo
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
