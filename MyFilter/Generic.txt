@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter - Generic
-! Last updated: 2018.12.20
+! Last updated: 2020.04.25
 baby-metal.jpn.org##div.tag_5.box:has-text(BABYMETALの楽園)
 baby-metal.jpn.org##div.tag_5.box:has-text(私、BABYMETALの味方です。)
 route.ekitan.com##.ekimod.pr_areastop
@@ -12,6 +12,7 @@ touch.navitime.co.jp##section#main-campaign-frame
 touch.navitime.co.jp##section#recommend-menu-main-area
 touch.navitime.co.jp##section#recommend-menu-main-frame
 touch.navitime.co.jp##section#recommend-menu-tab-frame
+twitter.com##div[aria-label="タイムライン: トレンド"]
 www.jreast.co.jp##aside#banner
 www.jreast.co.jp##div#slidebanner-ekinet
 www.jreast.co.jp##div.slider
