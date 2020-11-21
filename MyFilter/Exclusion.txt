@@ -10,6 +10,7 @@ ebay.com#@#.social
 
 ! Google
 google.com#@#[class$="_ad"]:not(html):not(body):not(.p_no_ad)
+google.com#@#+js(acis, navigator.deviceMemory)
 
 ! honto
 @@||honto.jp/library/js/cmn/s_code.min.js$script,first-party
