@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter - Exclusion
-! Last updated: 2020.02.08
+! Last updated: 2020.12.15
 
 ! Duolingo
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
@@ -27,6 +27,9 @@ inoreader.com#@#.inno_dialog_modal_overlay:not(#login_dialog_modal_overlay)
 ! JAL
 @@||sp.jal.co.jp/commonY15/js/cookieManager.js$script,domain=sp.jal.co.jp
 @@||www.jal.co.jp/commonY15/js/cookieManager.js$script,domain=www.jal.co.jp
+
+! JTB
+@@||www.jtb.co.jp/kokunai_reserve/resources/share/js/*$script,domain=www.jtb.co.jp
 
 ! JR東海ツアーズ
 @@||api.docodoco.jp/v5/docodoco$script,domain=www.jrtours.co.jp
