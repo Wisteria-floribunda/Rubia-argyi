@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter - Exclusion
-! Last updated: 2020.12.15
+! Last updated: 2022.02.11
 
 ! Duolingo
 @@||apis.google.com/js/platform.js$script,domain=duolingo.com
@@ -58,3 +58,14 @@ www.satofull.jp#@#[class^="ad_"]:not(html):not(body)
 ! チケットぴあ
 @@||image.pia.jp/common2//common/pc/share/js/*$script,first-party
 @@||image.pia.jp/share2/tpia/js/jquery.cookie.js$script,first-party
+
+! メロンブックス
+!www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text()
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(マイページ)
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(ご注文履歴)
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(ご注文関連サービス)
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(欲しいもの管理)
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(お気に入り)
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(会員情報編集)
+www.melonbooks.co.jp#@#div.mb20.blocks_green.blocks:has-text(よくある質問)
+www.melonbooks.co.jp#@#div.mb20:has-text(お気に入りサークル新着作品)
