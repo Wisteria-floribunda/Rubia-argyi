@@ -53,6 +53,11 @@ movie.eroterest.net##.item.mb-2.m-1:has-text(LAXD)
 !www.melonbooks.co.jp##div.mb20.blocks_green.blocks:nth-of-type(5)
 !www.melonbooks.co.jp##div.mb20.blocks_green.blocks:nth-of-type(6)
 !www.melonbooks.co.jp##div.mb20.blocks_green.blocks:nth-of-type(9)
+www.melonbooks.co.jp##.clearfix.clms_3.clms > .clm_r.clm
+www.melonbooks.co.jp##.clm_c.clm > div.mb20 > div
+www.melonbooks.co.jp##.opacity
+www.melonbooks.co.jp##a.opacity
+www.melonbooks.co.jp##div.fair_mypage.mb20
 
 ! 駅探
 route.ekitan.com##.ekimod.pr_areastop
