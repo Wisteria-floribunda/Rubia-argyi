@@ -58,6 +58,8 @@ www.melonbooks.co.jp##.clm_c.clm > div.mb20 > div
 www.melonbooks.co.jp##.opacity
 www.melonbooks.co.jp##a.opacity
 www.melonbooks.co.jp##div.fair_mypage.mb20
+www.melonbooks.co.jp##div.mb20.blocks_green.blocks
+www.melonbooks.co.jp##div.mb5.blocks_green.blocks
 
 ! 駅探
 route.ekitan.com##.ekimod.pr_areastop
