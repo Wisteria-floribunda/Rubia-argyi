@@ -30,7 +30,7 @@ www.pixiv.net##.ljKLPe.sc-jIdpwp
 twitter.com##div[aria-label="タイムライン: トレンド"]
 
 ! エロタレスト
-! movie.eroterest.net##.item.mb-2.m-1:has-text(LAXD)
+! movie.eroterest.net##.item.mb-2.m-1:has-text(ドーガ)
 
 ! メロンブックス
 !www.melonbooks.co.jp##.clm_c.clm > div.mb20:nth-of-type(1)
