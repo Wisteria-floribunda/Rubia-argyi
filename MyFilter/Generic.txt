@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter - Generic
-! Last updated: 2022.02.11
+! Last updated: 2023.04.29
 
 ! BABYmatoMETAL
 baby-metal.jpn.org##div.tag_5.box:has-text(BABYMETALの楽園)
@@ -28,6 +28,9 @@ www.pixiv.net##.ljKLPe.sc-jIdpwp
 
 ! Twitter
 twitter.com##div[aria-label="タイムライン: トレンド"]
+
+! YouTube
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
 
 ! エロタレスト
 movie.eroterest.net##.item.mb-2.m-1:has-text(ドーガ)
