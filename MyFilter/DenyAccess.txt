@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: MyFilter - Deny Access
-! Last updated: 2019.07.01
+! Last updated: 2023.09.10
 ||biglobe.ne.jp^
 ||bmparadise.blog.jp^
 ||ecnavi.jp^
 ||ero-video.net^
 ||excite.co.jp^
+||gamewith.jp/ad/headercreative/video/show$subdocument
 ||goo.ne.jp^
 ||mercari.com^
 ||naver.jp^
